@@ -14,9 +14,9 @@ function Contact()
     </form>
      */}
      <ul>
-      <li><a href="mailto:tusharhirawat1918@gmail.com">tusharhirawat1918@gmail.com</a></li>
-      <li><a href="https://www.linkedin.com/in/tushar-hirawat-a09701309/">Linkedn</a></li>
-      <li><a href="https://github.com/tuharhirawat/">GitHub</a></li>
+      <li><a href="mailto:rrpinnamraju@gmail.com">rrpinnamraju@gmail.com</a></li>
+      <li><a href="https://www.linkedin.com/in/pinnamaraju-sai-venkata-ramaraju-3ba2b7282/">Linkedn</a></li>
+      <li><a href="https://github.com/RamaRaju2/">GitHub</a></li>
      </ul>
   </div>
 
